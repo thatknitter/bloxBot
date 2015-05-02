@@ -1,0 +1,18 @@
+{
+  "name": "bloxBot",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thatknitter/bloxBot",
+  "authors": [
+    "Kimberly Lewis <kblewis.flt@gmail.com>"
+  ],
+  "description": "A series of lessons to build robots with lego and program them to go with Arduino and Python.",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
