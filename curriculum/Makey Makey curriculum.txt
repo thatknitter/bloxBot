@@ -1,0 +1,60 @@
+﻿Intro to Makey Makey
+
+Makey Makey is a micro controller that does not need programming.  There are spots to plug wires into the board which are labeled to interact with the mouse, keyboard, sound output.  It is the best starter micro controller I have found so far.
+
+Students who experiment with this will learn about circuits and conductivity.
+
+Circuits- In order for electricity to do a job the current has to run in a circuit, sort of like a circle.  The power leaves the source and travels back to the source.  Even when you plug in a lampone wire of the two wire cord carries fresh energy in and the old energy travels down the second cord and back to its source. <picture of circuit>
+
+Conductivity- is a measure of how easily electricity flows through an object.  If electricity flows easily the item is a conductor if the electricity does not flow well then the item is a insulator.  There are several wells to test conductivity but to stay safe an get a comparable measurement you need an OHM meter.  But you do not have to have this tool to work with your makey makey.
+
+
+Makey Makey
+
+Standards:
+Digital Literacy Skills:
+5.1 Generates and revises inquiry questions or problems as needed to arrive at a manageable topic.
+5.12 Uses keyboard efficiently including shortcuts, arrows, backspace, shift etc.
+5.16 Applies knowledge of similar characteristics in various technologies to effectively use new tools.
+5.19 Uses technology to work collaboratively with peers
+Define the tenets and processes of industrial design with an emphasis on ergonomics.
+Sketch and create video game controller prototypes.
+Assess the prototype designs through user testing (observation, survey, focus groups).
+Modify designs based on user testing.
+
+Day One Build a Banana piano
+
+1.  You can use this video to explain what a MakeyMakey is:http://youtu.be/1m2iQ4fws8Y
+2.  Walk through the steps of What is a Makey Makey and what can I do. http://makeymakey.com/
+3.  Build a banana piano following these instructions  http://makeymakey.com/piano/
+4. If it works play away if not-Trouble shoot-
+Is the micro USB plugged in to the Makey Makey and is the USB end plugged into the keyboard?
+Is your alligator clip attached to a pair of “earth” ports?
+Are the wires plugged into different bananas?
+Are the other ends of the wires plugged into the the keyboard, WASDFG?
+
+Day 2 game controller or music with pencil lead
+1. This video will show some examples of pencil lead musical instruments: https://www.youtube.com/watch?v=3MLkvqB5lSo
+
+2. Test for pencil lead conductivity.
+Take a variety of pencils and use an ohm meter to test for conductivity using the scientific method
+Choose the pencil with the greatest conductivity and carefully draw your circuits to the edge of your page connect the alligator clips to them 
+
+3. If you cannot find a pencil lead which conducts well you can use squishy circuits play dough to build a circuit.  You can find the recipe here: http://courseweb.stthomas.edu/apthomas/SquishyCircuits/conductiveDough.htm
+Video: https://www.youtube.com/watch?v=3MLkvqB5lSo
+
+4. Set up your game controller and plug alligator clips into either your UP, Down, Left, right and space or plus your wires into the keyboard slots.
+
+5, Start up your game and play
+
+Day 3 Design your project
+You may redo a project from the web or you can create your own
+1.  Draw out and decide what you are going to build.
+2.  Create a materials list to bring to the next class
+
+Day 4 
+Build your project and video it working
+
+Builders choice award will be awarded to the team who collects the highest number of votes from the other builders,  Good luck.
+
+
