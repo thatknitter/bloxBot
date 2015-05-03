@@ -9,28 +9,20 @@
     <link rel="stylesheet" type="text/css" href="styles/main.css" />
   </head>
   <body>
-    <div class="header">
-      <ul>
-        <li>
-          <a href="/#/">Home</a>
-        </li>
-        <li>
-          <a href="/#/about">About BloxBot</a>
-        </li>
-        <li>
-          <a href="/#/lessons">Lessons</a>
-        </li>
-        <li>
-          <a href="/#/consult">Consulting</a>
-        </li>
-        <li>
-          <a href="/#/gallery">Gallery</a>
-        </li>
-        <li>
-          <a href="/#/us">Who Are We?</a>
-        </li>
-      </ul>
+    <div class="mainheader">
+      <img class="headerpic" src="img/header.png">
     </div>
+    <nav class="nav" tabindex="-1" onclick="this.focus()">
+      <div class="container">
+        <a class="pagename current" href="/#/">BloxBot | Home</a>
+        <a href="/#/about">About BloxBot</a>
+        <a href="/#/lessons">Lessons</a>
+        <a href="/#/consult">Consulting</a>
+        <a href="/#/gallery">Gallery</a>
+        <a href="/#/us">Who Are We?</a>
+      </div>
+    </nav>
+
     <div class="container">
       <div ng-view></div>
     </div>
