@@ -1,6 +1,6 @@
 ;(function(){
   'use strict';
-  
-  angular.madule('bloxApp', ['ngRoute']);
-  
+
+  angular.module('bloxApp', ['ngRoute']);
+
 }());
