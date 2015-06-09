@@ -16,6 +16,11 @@
       .when('/consult', {
         templateUrl: 'views/consult.html'
       })
+      .when('/code', {
+        templateUrl: 'views/codeBuilder.html',
+        controller: 'codeController',
+        controllerAs: 'builder'
+      })
       .when('/gallery', {
         templateUrl: 'views/gallery.html'
       })
